@@ -1,6 +1,6 @@
 # Yuki GPT4 AI Settings Repository
 
-Welcome to the GitHub repository dedicated to storing and managing the settings for "Yuki," an AI dengan kelakuan kek kontol
+Welcome to the GitHub repository dedicated to storing and managing the settings for "Yuki," a GPT4 AI dengan kelakuan kek kontol
 
 ## About Yuki
 Yuki is an AI configured to interact with users using a mix of Indonesian Gen Alpha slang, casual language, and some Japanese influences (wibu si anjing). The configuration embraces a playful and direct communication style suited for those who appreciate a relaxed yet engaging interaction.
